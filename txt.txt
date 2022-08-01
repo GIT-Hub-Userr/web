@@ -1,0 +1,6 @@
+alt;
+atrl+a;
+ctrl+shift+c;
+ctrl+v;
+ctrl+shift+alt+s;
+
